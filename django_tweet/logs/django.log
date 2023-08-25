@@ -1,0 +1,350 @@
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2729
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2729
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_homepage\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2729
+Not Found: /
+"GET / HTTP/1.1" 404 2729
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_setting\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2729
+Not Found: /
+"GET / HTTP/1.1" 404 2729
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2729
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2780
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_tweet\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2623
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_tweet\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2068
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_setting\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2729
+"GET /signup/ HTTP/1.1" 200 1243
+"GET /signin/ HTTP/1.1" 200 738
+"POST /signin/ HTTP/1.1" 200 847
+"GET /signup/ HTTP/1.1" 200 1243
+"POST /signup/ HTTP/1.1" 302 0
+"GET /signin/ HTTP/1.1" 200 738
+"POST /signin/ HTTP/1.1" 200 846
+"POST /signin/ HTTP/1.1" 200 846
+"POST /signin/ HTTP/1.1" 200 846
+"GET /signup/ HTTP/1.1" 200 1243
+"POST /signup/ HTTP/1.1" 302 0
+"GET /signin/ HTTP/1.1" 200 738
+"POST /signin/ HTTP/1.1" 200 846
+"POST /signin/ HTTP/1.1" 200 846
+Not Found: /homepage/
+"GET /homepage/ HTTP/1.1" 404 2843
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2729
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2729
+Not Found: /settings/
+"GET /settings/ HTTP/1.1" 404 2846
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2729
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_homepage\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_homepage\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_homepage\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_homepage\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_homepage\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2900
+Not Found: /
+"GET / HTTP/1.1" 404 2900
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2951
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_tweet\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2773
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2773
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_tweet\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_tweet\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2773
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_tweet\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Bad Request: /
+"GET / HTTP/1.1" 400 143
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Bad Request: /
+"GET / HTTP/1.1" 400 143
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 400 143
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\Lib\site-packages\django\http\request.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\Lib\site-packages\django\http\request.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Bad Request: /
+"GET / HTTP/1.1" 400 143
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 400 143
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\Lib\site-packages\django\http\request.py changed, reloading.
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Bad Request: /
+"GET / HTTP/1.1" 400 143
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 400 143
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_tweet\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 179
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 179
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 179
+Not Found: /
+"GET / HTTP/1.1" 404 179
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 179
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 179
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_tweet\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2773
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_tweet\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2919
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_tweet\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2527
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_tweet\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2900
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2900
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2900
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2951
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_profile\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_profile\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\manage.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\manage.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\manage.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2900
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2951
+Not Found: /
+"GET / HTTP/1.1" 404 2900
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2951
+"GET /signin/ HTTP/1.1" 200 921
+Not Found: /login/
+"GET /login/?next=/ HTTP/1.1" 404 2943
+Not Found: /login/
+"GET /login/ HTTP/1.1" 404 2936
+"GET /signup/ HTTP/1.1" 200 1364
+"GET /signout/ HTTP/1.1" 200 1308
+"POST /signout/ HTTP/1.1" 200 1308
+Not Found: /homepage/
+"GET /homepage/ HTTP/1.1" 404 3014
+Not Found: /profile/
+"GET /profile/ HTTP/1.1" 404 3220
+Not Found: /setting/
+"GET /setting/ HTTP/1.1" 404 2942
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2901
+"GET /homepage/ HTTP/1.1" 200 1308
+"POST /homepage/ HTTP/1.1" 200 1308
+"GET /signin/ HTTP/1.1" 200 921
+"GET /signup/ HTTP/1.1" 200 1364
+Not Found: /
+"GET / HTTP/1.1" 404 2901
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_setting\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2902
+Not Found: /
+"GET / HTTP/1.1" 404 2902
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2953
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2902
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2953
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2902
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2953
+"GET /signin/ HTTP/1.1" 200 921
+"GET /signup/ HTTP/1.1" 200 1364
+"GET /homepage HTTP/1.1" 301 0
+"GET /homepage/ HTTP/1.1" 200 1308
+"POST /homepage/ HTTP/1.1" 200 1308
+"POST /homepage/ HTTP/1.1" 200 1308
+"POST /homepage/ HTTP/1.1" 200 1308
+"POST /homepage/ HTTP/1.1" 200 1308
+"POST /homepage/ HTTP/1.1" 200 1308
+"POST /homepage/ HTTP/1.1" 200 1308
+"POST /homepage/ HTTP/1.1" 200 1308
+"POST /homepage/ HTTP/1.1" 200 1308
+"POST /homepage/ HTTP/1.1" 200 1308
+"POST /homepage/ HTTP/1.1" 200 1308
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\PRITHIVIRAJAN\PycharmProjects\tweet\django_tweet\django_accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader

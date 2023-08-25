@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            margin: 0;
+        }
+        .post {
+            background-color: white;
+            border: 1px solid #ccc;
+            margin: 10px;
+            padding: 10px;
+        }
+        form {
+            margin-top: 20px;
+        }
+        label, input, button {
+            display: block;
+            margin-bottom: 10px;
+        }
+        button {
+            background-color: #333;
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Homepage</h1>
+    <div>
+        {% for post in posts %}
+        <div class="post">
+            <p>{{ post.message }}</p>
+            <p>Hashtags: {{ post.hashtags }}</p>
+            <p>Posted by: {{ post.user }}</p>
+        </div>
+        {% endfor %}
+    </div>
+    <h2>Upload New Post</h2>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Upload Post</button>
+    </form>
+</body>
+</html>

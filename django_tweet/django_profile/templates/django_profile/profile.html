@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+</head>
+<body>
+    <h1>{{ user_profile.user.username }}</h1>
+    <img src="{{ user_profile.profile_picture.url }}" alt="Profile Picture">
+    <p>Mobile Number: {{ user_profile.mobile_number }}</p>
+
+    <h2>Your Posts:</h2>
+    <div>
+        {% for post in user_profile.user.post_set.all %}
+        <div class="post">
+            <p>{{ post.message }}</p>
+            <p>Hashtags: {{ post.hashtags }}</p>
+            <p>Posted by: {{ post.user }}</p>
+            <a href="{% url 'delete_post' post.id %}">Delete Post</a>
+        </div>
+        {% endfor %}
+    </div>
+    <a href="{% url 'edit_mobile_number' %}">Edit Mobile Number</a>
+</body>
+</html>

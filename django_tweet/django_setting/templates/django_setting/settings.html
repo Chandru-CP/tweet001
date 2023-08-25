@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Settings</title>
+</head>
+<body>
+    <h1>Settings</h1>
+    <!-- Form for changing username -->
+    <form method="post">
+        {% csrf_token %}
+        {{ username_form.as_p }}
+        <button type="submit">Change Username</button>
+    </form>
+
+    <!-- Form for changing email -->
+    <form method="post">
+        {% csrf_token %}
+        {{ email_form.as_p }}
+        <button type="submit">Change Email</button>
+    </form>
+
+    <!-- Form for changing profile picture -->
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ profile_picture_form.as_p }}
+        <button type="submit">Change Profile Picture</button>
+    </form>
+
+    <!-- Form for changing mobile number -->
+    <form method="post">
+        {% csrf_token %}
+        {{ mobile_number_form.as_p }}
+        <button type="submit">Change Mobile Number</button>
+    </form>
+</body>
+</html>
